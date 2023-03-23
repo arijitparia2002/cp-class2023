@@ -1,6 +1,6 @@
 # 81. Search in Rotated Sorted Array II
 
-from ast import List
+from typing import List
 
 
 class Solution:
